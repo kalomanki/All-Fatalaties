@@ -1,0 +1,84 @@
+body{
+    background-image: url(img/bc.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 100%;  
+}
+.klass img{
+    width: 100%;
+}
+.klass{
+    text-align: center;
+}
+.mortuxa{
+    background-color: white;
+    width: 50%;
+   margin: 0 auto;
+}
+.imgshki img{
+    width: 96.99px;
+    height: 127.99px;
+    transition: 0.3s;
+}
+.imgshki img:hover{
+    transform: scale(1.1);
+}
+.h4{
+    color: #ff0000;
+}
+.ok{
+    color: #ff0000;
+    text-decoration: underline;
+    display: inline-block;
+}
+.kol{
+    width: 17px;
+    height: 16px;
+}
+.ol img{
+    width: 100%;
+    height: 100%;
+}
+.pol{
+    color: #ff0000;
+    text-decoration: underline;
+}
+    .gol{
+        color: #ff0000;
+        text-align: center;
+    }
+    .pob img{
+        width: 100%;
+        height: 100%;
+    }
+    .imgshki{
+        text-align: center;
+    }
+    .hol{
+        width: 90%;
+        margin: 20px auto;
+    }
+    .quital p{
+        margin: 20px auto;
+        width: 90%;
+    }
+
+    @media (max-width: 600px){
+        .mortuxa{
+            width: 90%;
+        }
+
+    }
+    @media (max-width: 900px) {
+        body{
+            background-image: url(img/mkbg.jpg);
+
+        }
+    }
+    .oh{
+        position: fixed;
+        top: 50px;
+        left: 50px;
+    }
+    
