@@ -42,10 +42,18 @@ body{
 .kek{
     color: rgb(81, 255, 0);
 }
-
+.i{
+    width: 70px;
+    height: 70px;
+    position: fixed;
+}
 @media (max-width: 600px){
     .snow{
         width: 90%;
+    }
+    .i{
+        width: 30px;
+        height: 30px;
     }
 }
 @media (max-width: 900px) {
@@ -65,11 +73,7 @@ body{
 .jk{
     color: rgb(241, 160, 10);
 }
-.i{
-    width: 70px;
-    height: 70px;
-    position: fixed;
-}
+
 .k{
     color: grey;
 }
