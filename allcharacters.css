@@ -95,3 +95,10 @@ body{
 .shanu{
     color: rgb(0, 255, 0);
 }
+.red{
+    width: 100px !important;
+    height: 100px !important;
+}
+.achivki{
+    display: flex;
+}
